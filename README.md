@@ -8,6 +8,7 @@ Steps to run
 5. now in stocksController.dart replace the IP in the URL with the IP of the system running the server.
 6. Now run the app in debug mode and check.
 
+Didn't implement 1D in chart as the package was not returning data in time series.
 
 
 I have used extensions on the application which will dynamically adapt to the screen size and change the font size container height and width.
